@@ -52,4 +52,5 @@ figcaption {
 
 #details a:link {
   color: black;
+  text-decoration: none;
 }
