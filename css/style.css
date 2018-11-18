@@ -50,4 +50,6 @@ figcaption {
 
 /*Psuedo Selector*/
 
-#details a:link
+#details a:link {
+  
+}
